@@ -1,0 +1,39 @@
+#box1{
+    border: 2px solid black;
+    width: 800px;
+    height: 400px;
+    margin-left: 250px;
+    margin-top: 100px;
+    background-color:coral;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellow;
+    text-shadow: black 2px 2px;
+    
+}
+h1:hover{
+    color: lightblue;
+}
+#box2{
+    background-image:linear-gradient(white,rgb(175, 221, 240),rgb(126, 197, 255));
+    font-size: 25px;
+    padding: 5px;
+    margin: 10px;
+
+}
+#box2>p{
+    color:crimson
+}
+#box3>p{
+    color:brown
+}
+#box3{
+    background-image: linear-gradient(rgb(195, 251, 253),rgb(255, 255, 3),rgb(251, 255, 168));
+    font-size: 25px;
+    padding: 10px;
+    margin: 10px;
+
+}
